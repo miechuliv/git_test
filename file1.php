@@ -12,7 +12,8 @@
 
 	echo 'some extra changes dev3 but also some from dev2.2';
 
-
+	$x= 7;
+	$t = 2;
 
 
 	?>
