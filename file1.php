@@ -1,6 +1,8 @@
 <?php
 
+
 	echo 'chnages from dev1 on master';
-	echo 'some other extra changes dev1';
+	echo 'some extra changes dev2';
+
 
 	?>
