@@ -1,5 +1,5 @@
 <?php
 
-	echo 'chnages from dev1';
+	echo 'chnages from dev2 on branch 2';
 
 	?>
