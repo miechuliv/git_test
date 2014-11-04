@@ -9,14 +9,12 @@
 
 
 	echo 'some extra changes dev3 but also some from dev2.2';
-	
-	$a = 1;
-	$b = 5;
 
 	$x= 7;
 	$t = 2;
 	
 	echo 'hotfix';
 
+	echo 'some new  fronend shit';
 
 	?>
