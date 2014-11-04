@@ -16,5 +16,7 @@
 	echo 'hotfix';
 
 	echo 'some new  fronend shit';
+	
+	$beta = 6;
 
 	?>
