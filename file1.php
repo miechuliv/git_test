@@ -13,5 +13,6 @@
 	$x= 7;
 	$t = 2;
 
+	echo 'some new  fronend shit';
 
 	?>
